@@ -1,0 +1,258 @@
+html{
+ height:100%;
+ width: 100%;
+ font-family: 'Poppins', sans-serif;
+
+
+}
+
+body{
+  background: url(contact-bg.jpg) no-repeat center top; 
+
+ 
+}
+
+#contact-section {
+ background: rgba(0,0,0,.6);
+ content: "";
+ pointer-events: none;
+ position: absolute;
+ left: 0;
+ top: 0;
+ height: 100%;
+ width: 100%;
+ z-index: 0;
+}
+
+header{
+ /* background-color: #f0f0f0; */
+}
+
+.logo {
+ height: 48px;
+background-color: #b2d237;
+border: 0ch;
+}
+
+.navbar {
+ margin: 0px 50px 0px 120px;
+ display: inline-block;
+ float: right;
+}
+.navbar ul li a {
+ text-decoration: none;
+ color: #ffffff;
+ border: 1px ;
+ border-radius: 15px;
+ padding: 0 22px;
+ font-size: 15px;
+ font-weight: 100;
+ 
+}
+.navbar ul li  #contact {
+ border: 1px ;
+ border-radius: 15px;
+ padding: 0 22px;
+ background-color: #b2d237;
+}
+
+.navbar ul li a:hover{
+ background-color: #b2d237;
+ transition: 0.75s ease-in; 
+}
+.navbar ul li {
+ list-style: none;
+ display: inline;
+ margin-right: 10px;
+ border-radius: 15px;
+}
+
+.navbar ul {
+ float: right;
+ margin: 0;
+ padding-top: 10px;
+}
+
+div.main-contact {
+ padding-top: 50px;
+ margin: 0 auto;
+}
+
+  div.main-contact h2 {
+   color: #b2d237;
+   font-size: 46px;
+   line-height: 56px;
+   text-transform: uppercase;
+   margin: 0 0 40px;
+   font-family: 'Atkinson Hyperlegible', sans-serif;
+  margin-bottom: 27px;
+
+}
+
+div.left .field {
+ border: 0;
+}
+
+div.left label {
+ color: #ffffff;
+}
+
+div.left input {
+ background: rgba(255,255,255,.18);
+ border: 1px solid transparent;
+ border-radius: 0;
+ color: #b2d237;
+ outline: 0;
+ width: 100%;
+ height: 30px;
+ 
+
+}
+div.left #car{
+ background: rgba(255,255,255,.18);
+ border: 1px solid transparent;
+ border-radius: 0;
+ color: #b2d237;
+ outline: 0;
+ width: 100%;
+ height: 30px;
+ 
+}
+div.left .lft-btn{
+ background: rgba(255,255,255,.18);
+    border: 1px solid transparent;
+    border-radius: 5px;
+    color: #b2d237;
+    outline: 0;
+    width:20%;
+    height:10%;
+   
+}
+
+div.right .lft-hdr {
+ font-size: 56px;
+ line-height: 56px;
+ color: #fff;
+ margin: 0 0 40px;
+}
+div.left .lft-txt {
+    padding: 10px;
+    height: 98px;
+    resize: none;
+    background: rgba(255,255,255,.18);
+    border: 1px solid transparent;
+    border-radius: 0;
+    color: #b2d237;
+    outline: 0;   
+}
+
+div.main-contact {
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ margin: 0 auto;
+ grid-gap: 4em;
+}
+
+div.right h3 {
+ color: #ffffff;
+ font-size: 56px;
+ line-height: 56px;
+ text-transform: uppercase;
+ margin: 0 5px 0 40px;
+ font-family: 'Atkinson Hyperlegible', sans-serif;
+
+}
+
+
+div.right ul {
+ list-style: none;
+}
+
+
+div.right ul li a{
+ text-decoration: none;
+ font-family: 'Atkinson Hyperlegible', sans-serif;
+ color: #fff;
+ font-size: 24px;
+ line-height: 29px;
+ letter-spacing: -.72px;
+
+}
+
+div.right ul li a span {
+    display: block;
+    position: absolute;
+    left: 5px;
+    top: 0;
+    text-align: center;
+    line-height: 28px;
+    height: 28px;
+    width: 30px;
+    z-index: 0;
+}
+
+div.right ul li a span img {
+ display: inline-block;
+    height: auto;
+    max-width: 18px;
+    max-height: 28px;
+    vertical-align: middle;
+}
+
+div.right .fas {
+ font-size: 100px;
+}
+div.right ul li a:hover{
+ color: #b2d237;
+ transition: 0.75s ease-in;
+}
+/* button.footer a{
+  background: rgba(255,255,255,.18);
+  border: 1px solid transparent;
+  border-radius: 15px;
+  color: #b2d237;
+  outline: 0;
+  width: 20%;
+  height: 10%;
+  text-align: right;
+}
+button.footer a:hover{
+color: #b2d237;
+transition-delay: 00.75s;
+ } */
+ /* transition: 0.75s ease-in; */
+/* for the scroll bar to go upwards
+.rtntop{
+  background: #b3d146 url(../images/nav-arrow-up.png) no-repeat center center;
+  border-radius: 100%;
+  display: none;
+  position: fixed;
+  bottom: 100px;
+  right: 70px;
+  text-indent: -9999px;
+  transition: none;
+  width: 60px;
+  height: 60px;
+  z-index: 990;
+}
+.hp-cta .right {
+  bottom: 100px;
+  right: 15px;
+} */
+
+
+
+/* icon image to navigate to the top */
+ /* .btm{
+width:10%;
+ height: auto;
+ padding-left: 60%;
+ }
+ .bottom{
+   justify-content: right;
+ } */
+
+
+
+
+ 
