@@ -1,0 +1,72 @@
+h1
+{
+    color: white;
+}
+a
+{
+    color: white;
+}
+#hh1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.0cm;
+    font-weight: bolder;
+    color: black;
+
+}
+#head1{
+}
+#nav1{
+
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;      
+        
+}
+#nav2
+{
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+ul
+{
+  
+}
+li
+{
+    border: 20cm;
+    border-radius: 10cm;
+    display:inline-block;
+    margin: 1.2%;
+    background-color: black;
+    color: white;
+
+}
+body{
+
+}
+a{
+  
+}
+a:visited{
+
+}
+a:hover{
+}
+
+#in
+{
+
+}
+#up{
+    
+}
+#bab1{
+    font-size: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-style: oblique;
+
+}

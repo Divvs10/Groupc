@@ -1,0 +1,151 @@
+body{
+    
+    background: url( mine\ -\ Copy.jpg) top center no-repeat;
+    max-height: fit-content;
+    
+ }
+ #group
+ {    
+     font
+     float:left;
+ 
+ }
+ #line_mail
+ {
+     background-color: rgb(36, 34, 34);
+     font-size: 20px;
+     text-align: right;
+ }
+span
+{
+   color:white;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#body1{
+         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         font-size: 25px;
+         margin-top: 10px;
+         display: inline-block;
+         background-color: ;
+                         }
+
+ #Divine
+ {
+     font-weight: bolder;
+ }
+ #line{
+     color:green
+ }
+ #mail{
+     text-transform: lowercase;
+    
+ }
+ #mail_link
+ {
+     text-decoration: none;
+     color: rgb(37, 36, 36);
+ }
+ #home{
+     margin-left: 835px;
+     text-decoration: none;
+     color: ;
+     border-radius: 10px;
+     padding:5px
+ }
+ #port
+ {
+
+     text-decoration: none;
+     color: ;
+     border-radius: 10px;
+     padding:5px
+ }
+ #con
+ {
+     text-decoration: none;
+     color: ;
+     background-color: green;
+     border-radius: 10px;
+     padding:5px
+ }
+ #doc
+ {
+ 
+     text-decoration: none;
+     color:
+     border-radius: 10px;
+     padding:5px
+ }
+ a:hover{
+    
+    
+    font-size: 27px;
+ }
+ a:active
+ {
+    
+ }
+ #p1{
+     text-align: right;
+     font-size: 70px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-weight: bolder;
+    
+ }
+ #p2{
+     text-align: right;
+     font-size: 60px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+ }
+
+ #image{
+ }
+
+ #eze{
+     height: 350px;
+     width: 350px;
+ }
+     
+ 
+ #dad{
+     height: 350px;
+     width: 350px;
+     
+ }
+ #ste{
+     height: 350px;
+     width: 350px;
+ 
+ }
+ #teh{
+     height: 350px;
+     width: 350px;
+ 
+ }
+ #dav{
+     height: 350px;
+     width: 350px;
+ 
+ }
+ #text{
+
+ }
+ #bottom
+ {
+   background-color: blue;
+   text-decoration: rgb(190, 20, 20);
+   text-overflow: clip;
+ }
+ .bottom_1
+ {
+     text-align: left;
+ }
+.bottom_2
+{
+    text-align: center;
+}
+.bottom_3
+{
+    text-align: right;
+}
